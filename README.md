@@ -1,6 +1,7 @@
 # 텍스트 분석 패키지
 
-GitHub URL: 제출 전 본인 GitHub 저장소 주소를 여기에 입력하세요.
+https://github.com/yosop1346-bot/pythoon__
+
 
 ## 1. 프로젝트 개요
 
