@@ -1,0 +1,4 @@
+# Runtime code uses only Python standard library modules.
+setuptools==82.0.1
+pycodestyle==2.14.0
+pytest==9.1.1
